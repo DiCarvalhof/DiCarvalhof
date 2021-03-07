@@ -1,7 +1,13 @@
 # Diêgo Carvalho
+:construction: - ### Em construção
 
-:construction:
-### Em construção <h3>
+## **Sobre mim**
+* 27 anos
+* Fortaleza - CE
+* Ciência da Computação
+* MBA Gerenciamento de Projetos
+* Analista de BI na SIMCo healthcare platform
+
 
 
 <a href="https://github.com/DiCarvalhof/github-readme-stats">
