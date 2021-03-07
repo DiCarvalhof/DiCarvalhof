@@ -20,20 +20,15 @@
 
 
 <a href="https://github.com/DiCarvalhof/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiCarvalhof&theme=dark"/>
-</a>
-
-### Teste1
-<a href="https://github.com/DiCarvalhof/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiCarvalhof"/>
-</a>
-
-<a href="https://github.com/DiCarvalhof/convoychat">
-  <img align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=DiCarvalhof"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiCarvalhof&theme=dark&langs_count=8"/>
 </a>
 
 
 ### Teste2
 [![Estatísticas GitHub de Di](https://github-readme-stats.vercel.app/api?username=DiCarvalhof)](https://github.com/DiCarvalhof/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiCarvalhof&layout=compact)](https://github.com/DiCarvalhof/github-readme-Estatísticas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiCarvalhof&layout=compact&langs_count=8)](https://github.com/DiCarvalhof/github-readme-Estatísticas)
+
+<a href="https://github.com/DiCarvalhof/DiCarvalhof/tree/main/Projetos/Teste">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiCarvalhof&theme=dark&langs_count=8"/>
+</a>
