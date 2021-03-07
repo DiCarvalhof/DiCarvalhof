@@ -21,3 +21,11 @@
 <a href="https://github.com/DiCarvalhof/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiCarvalhof&theme=dark"/>
 </a>
+
+
+<a href= "https://github.com/DiCarvalhof/github-readme-stats">
+  <img align = " center " src = " https://github-readme-stats.vercel.app/api/pin/?username=DiCarvalhof&repo=github-readme-stats " />
+</a>
+<a href= "https://github.com/DiCarvalhof/convoychat">
+  <img align = " center " src = " https://github-readme-stats.vercel.app/api/pin/?username=DiCarvalhof&repo=convoychat " />
+</a>
