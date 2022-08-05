@@ -1,12 +1,11 @@
 # **Diêgo Carvalho**
 
 ## **Sobre mim**
-* 27 anos
+* 1993
 * Fortaleza-CE
 * Ciência da Computação
 * MBA Gerenciamento de Projetos
 * [LinkedIn](https://www.linkedin.com/in/diegocarvalhof/)
-* Analista de BI Sr na [SIMCo healthcare platform](http://simco.digital/)
 
 
 ## **Estatística**
